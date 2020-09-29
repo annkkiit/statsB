@@ -13,6 +13,7 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.ankit.myapplication.Exercises.Walking;
 import com.ankit.myapplication.POJO.Article;
 import com.ankit.myapplication.POJO.GetResult;
 import com.ankit.myapplication.POJO.Result;
@@ -375,6 +376,13 @@ public class ResultActivity extends AppCompatActivity {
                     "Regular check-ups by the eye doctor are essential\n" +
                     "With diabetes, the eyes should be examined at regular intervals. Good prevention means that changes in the eye can be treated in time and thus serious complications avoided. Moreover, it is important to balance the blood sugar levels as best as possible by taking insulin. In that way, damage to organs caused by diabetes can best be prevented. Also, discuss dry eye problems with your eye doctor because in the long run, these can greatly restrict your well-being and even lead to damage to the sensitive cornea. Your eye doctor will recommend a suitable treatment. You can also alleviate the symptoms yourself by using lubricating eye drops or a nurturing eye ointment. The substitute tears cover the irritated eye like a protective film and alleviate the itchy and burning feeling.", R.drawable.img_article5));
         }};
+    }
+
+
+
+    public void openExercises(View v){
+        Intent i = new Intent(getApplicationContext(), Walking.class);
+        startActivity(i);
     }
 
 }

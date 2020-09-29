@@ -111,6 +111,8 @@
             android:layout_marginBottom="5dp"
             android:textSize="25sp" />
 
+
+
     </LinearLayout>
 
     <LinearLayout
@@ -128,6 +130,12 @@
             android:text="See related article"
             android:textColor="@color/colorPrimaryDark"
             android:textSize="18sp" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Do Recommended Exercises and Earn Rewards!!"
+            android:onClick="openExercises"
+            />
 
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/article_list_res"
