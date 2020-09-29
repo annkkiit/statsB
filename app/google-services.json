@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "560068438870",
+    "firebase_url": "https://blockchain-9434e.firebaseio.com",
+    "project_id": "blockchain-9434e",
+    "storage_bucket": "blockchain-9434e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560068438870:android:96d5aae4465c70deaf04f7",
+        "android_client_info": {
+          "package_name": "ankit.com.statsb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560068438870-2vs8am6rek5beav740emcbsb4qq74oui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWk1dlPUtXue2YazxbOb_Zzk3EFVLlwo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560068438870-2vs8am6rek5beav740emcbsb4qq74oui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560068438870:android:010b62d23a31087baf04f7",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560068438870-2vs8am6rek5beav740emcbsb4qq74oui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWk1dlPUtXue2YazxbOb_Zzk3EFVLlwo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560068438870-2vs8am6rek5beav740emcbsb4qq74oui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560068438870:android:e18cf764fde14482af04f7",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560068438870-2vs8am6rek5beav740emcbsb4qq74oui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWk1dlPUtXue2YazxbOb_Zzk3EFVLlwo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560068438870-2vs8am6rek5beav740emcbsb4qq74oui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
